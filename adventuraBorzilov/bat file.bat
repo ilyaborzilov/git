@@ -1,0 +1,1 @@
+java -jar adventuraZaklad_2019.jar

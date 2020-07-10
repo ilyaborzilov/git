@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=plan\ batoh
+comment0.target=PrikazSmichej(HerniPlan,\ Batoh)
+comment0.text=\r\n\ Konstruktor\ t\u0159idy\r\n\ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ ve\ h\u0159e\ proch\u00E1z\u00ED.\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=jmeno\ proslov
+comment0.target=Postava(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ \ Metoda\ vlo\u017E\u00ED\ jmeno\ a\ slova\ postav\u011B.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getJmeno()
+comment1.text=\r\n\ Metoda\ vrac\u00ED\ jm\u00E9no\ postavy.\r\n\ \r\n\ @return\ \ \ String\ jm\u00E9no\ postavy.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getProslov()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ slova\ postavy.\r\n\ \r\n\ @return\ \ \ String\ slova\ postavy.\r\n
+comment3.params=zabity
+comment3.target=void\ setZabity(boolean)
+comment3.text=\r\n\ Metoda\ setMrtvy\r\n\ zabije\ postavu\r\n\r\n\ @param\ mrtvy\ Parametr\r\n
+comment4.params=
+comment4.target=boolean\ jeZabity()
+comment4.text=\r\n\ Metoda\ jeMrtvy\r\n\ vrac\u00ED\ je-li\ postava\ mrtv\u00E1\r\n\r\n\ @return\ N\u00E1vratov\u00E1\ hodnota\r\n
+comment5.params=vec
+comment5.target=void\ setVec(Vec)
+comment5.text=\r\n\ Metoda\ setVec\r\n\ nastav\u00ED\ v\u011Bc\ postav\u011B,\ aby\ po\ smrt\u00ED\ j\u00ED\ mohla\ vlo\u017Eit\ do\ prostoru\r\n\r\n\ @param\ vec\ Parametr\r\n
+comment6.params=
+comment6.target=Vec\ odeberVec()
+comment6.text=\r\n\ Metoda\ dropVec\r\n\ vrac\u00ED\ v\u011Bc\ pot\u0159ebnou\ pro\ "odeber"\r\n\r\n\ @return\ N\u00E1vratov\u00E1\ hodnota\r\n
+numComments=7

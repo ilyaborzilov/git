@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=jmeno\ prenositelna
+comment0.target=Vec(java.lang.String,\ boolean)
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getJmeno()
+comment1.text=\r\n\ Vrac\u00ED\ jm\u00E9no\ v\u011Bci\r\n\ \r\n\ @return\ jmeno\ v\u011Bc\u00ED\r\n
+comment2.params=
+comment2.target=boolean\ jePrenositelna()
+comment2.text=\r\n\ Metoda\ jePrenositelna\r\n\r\n\ @return\ N\u00E1vratov\u00E1\ hodnota\r\n
+numComments=3

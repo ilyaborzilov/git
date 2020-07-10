@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan\ batoh
+comment0.target=PrikazPosun_a_otevri(HerniPlan,\ Batoh)
+comment0.text=\r\n\ \ Konstruktor\ ....\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "Posun_a_otevri".\ Posouv\u00E1\ reg\u00E1l\ a\ z\u00E1rove\u0148\ otv\u00EDr\u00E1\ prostor.Pokud\ je\ zam\u010Den\u00FD,\r\n\ \ tak\ se\ dozv\u00ED,\ zda\ v\ batohu\ je\ pot\u0159ebn\u00FD\ kl\u00ED\u010D.\ Pokud\ ano,\ odemkne\r\n\ \ m\u00EDstnost.\ \r\n\r\n@param\ parametry\ -\ jako\ \ parametr\ obsahuje\ jm\u00E9no\ prostoru,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ do\ kter\u00E9\ se\ m\u00E1\ j\u00EDt.\r\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3

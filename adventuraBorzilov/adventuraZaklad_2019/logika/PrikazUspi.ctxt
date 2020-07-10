@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan\ hra
+comment0.target=PrikazUspi(HerniPlan,\ Hra)
+comment0.text=\r\n\ \ Konstruktor\ t\u0159idy\r\n\ \ @param\ plan\r\n\ \ @param\ hra\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "uspi".\ Pokud\ v\ batohu\ je\ jed,\ p\u0159\u00EDkaz\ se\ provede,\r\n\ pokud\ nen\u00ED,\ vrat\u00ED\ se\ zpr\u00E1va\ \u017Ee\ nem\u00E1te\ jed.\r\n\ Pokud\ lahvi\ v\ batohu\ je,\ v\ parametru\ se\ p\u0159edav\u00E1\ jmeno\ postavy,\ kterou\ chcete\ \r\n\ uspat\ a\ u\ postavy\ se\ nastav\u00ED\ hodnota\ jeMrtvy\ na\ true.\r\n\r\n\ @param\ parametry\ -\ jmeno\ postavy\r\n\ @return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3
